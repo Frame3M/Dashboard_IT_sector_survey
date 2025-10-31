@@ -1,4 +1,4 @@
-# Reporte laboral del sector IT basado en encuesta febrero 2025
+# Reporte laboral del sector IT basado en encuesta junio - julio 2025
 
 ## 📝 Descripción del Proyecto
 
